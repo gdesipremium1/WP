@@ -1,1 +1,1 @@
-# WP
+Silent is gold
