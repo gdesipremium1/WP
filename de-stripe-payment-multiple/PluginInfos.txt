@@ -1,0 +1,21 @@
+---------------------------------------
+----- What this plugin manages:
+-----
+1 Booking for training and coaching sessions
+2 Pre-payment and reservation of customer funds
+3 Processing final payment upon customer satisfaction
+4 Generating a final payment link, which can be sent via email or SMS
+5 Sending payment emails and conducting customer satisfaction surveys
+6 Automatic distribution of earnings to multiple beneficiaries (e.g., coaches and the WordPress platform)
+7 Transactions:
+    - Security
+    - Automation
+    - Seamless processing
+
+---------------------------------------
+----- About the resource code:
+-----
+1 WordPress WooCommerce (for payment processing)
+2 Stripe payment integration using the Stripe API
+3 WordPress REST API
+4 Various required views and templates
